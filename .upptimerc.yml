@@ -4,8 +4,18 @@ repo: status.praglowski.com # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Main
+  - name: praglowski.com
     url: https://praglowski.com
+  - name: praglowska.com
+    url: https://praglowska.com
+  - name: tomek.praglowski.com
+    url: https://tomek.praglowski.com
+  - name: slub.praglowski.com
+    url: https://slub.praglowski.com
+  - name: talks.praglowski.com
+    url: https://talks.praglowski.com
+  - name: europebycar.info
+    url: https://europebycar.info
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
