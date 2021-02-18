@@ -1,7 +1,7 @@
 url: https://europebycar.info
-status: up
-code: 200
-responseTime: 279
-lastUpdated: 2021-02-17T23:23:09.875Z
+status: down
+code: 503
+responseTime: 28400
+lastUpdated: 2021-02-18T16:16:45.154Z
 startTime: Wed Dec 30 2020 17:42:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
