@@ -58,7 +58,7 @@
     "timeMonth": 5531,
     "timeYear": 3667,
     "dailyMinutesDown": {
-      "2021-11-02": 299,
+      "2021-11-02": 305,
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
@@ -373,19 +373,19 @@
     "url": "https://slub.praglowski.com",
     "icon": "https://favicons.githubusercontent.com/slub.praglowski.com",
     "slug": "slub-praglowski-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 106,
-    "timeWeek": 128,
-    "timeMonth": 128,
+    "timeDay": 87,
+    "timeWeek": 121,
+    "timeMonth": 126,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2021-11-02": 0
+      "2021-11-02": 6
     }
   },
   {
