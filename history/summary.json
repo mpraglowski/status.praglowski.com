@@ -58,7 +58,7 @@
     "timeMonth": 5531,
     "timeYear": 3667,
     "dailyMinutesDown": {
-      "2021-11-02": 6,
+      "2021-11-02": 299,
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
@@ -373,9 +373,9 @@
     "url": "https://slub.praglowski.com",
     "icon": "https://favicons.githubusercontent.com/slub.praglowski.com",
     "slug": "slub-praglowski-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -384,7 +384,9 @@
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-02": 0
+    }
   },
   {
     "name": "talks.praglowski.com",
@@ -392,11 +394,11 @@
     "icon": "https://favicons.githubusercontent.com/talks.praglowski.com",
     "slug": "talks-praglowski-com",
     "status": "up",
-    "uptime": "83.78%",
+    "uptime": "83.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.78%",
+    "uptimeYear": "83.79%",
     "time": 187,
     "timeDay": 101,
     "timeWeek": 230,
