@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 576,
-    "timeDay": 506,
-    "timeWeek": 401,
+    "timeDay": 563,
+    "timeWeek": 406,
     "timeMonth": 463,
-    "timeYear": 581,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2021-07-29": 20,
       "2021-01-24": 59
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 548,
-    "timeDay": 504,
-    "timeWeek": 428,
-    "timeMonth": 422,
+    "time": 547,
+    "timeDay": 496,
+    "timeWeek": 423,
+    "timeMonth": 419,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2021-07-29": 19,
@@ -52,13 +52,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3871,
-    "timeDay": 5520,
-    "timeWeek": 5556,
-    "timeMonth": 5515,
-    "timeYear": 3945,
+    "time": 3875,
+    "timeDay": 5424,
+    "timeWeek": 5548,
+    "timeMonth": 5514,
+    "timeYear": 3959,
     "dailyMinutesDown": {
-      "2022-01-06": 8,
+      "2022-01-07": 8,
+      "2022-01-06": 1440,
       "2022-01-05": 1440,
       "2022-01-04": 1440,
       "2022-01-03": 1440,
@@ -421,8 +422,7 @@
       "2021-01-11": 1440,
       "2021-01-10": 1440,
       "2021-01-09": 1440,
-      "2021-01-08": 1440,
-      "2021-01-07": 1440
+      "2021-01-08": 1440
     }
   },
   {
@@ -437,9 +437,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 109,
-    "timeWeek": 105,
-    "timeMonth": 129,
+    "timeDay": 73,
+    "timeWeek": 104,
+    "timeMonth": 126,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -449,14 +449,14 @@
     "icon": "https://favicons.githubusercontent.com/talks.praglowski.com",
     "slug": "talks-praglowski-com",
     "status": "up",
-    "uptime": "86.62%",
+    "uptime": "86.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.11%",
+    "uptimeYear": "88.38%",
     "time": 205,
-    "timeDay": 2453,
-    "timeWeek": 940,
+    "timeDay": 164,
+    "timeWeek": 942,
     "timeMonth": 373,
     "timeYear": 205,
     "dailyMinutesDown": {
@@ -501,8 +501,7 @@
       "2021-01-11": 1440,
       "2021-01-10": 1440,
       "2021-01-09": 1440,
-      "2021-01-08": 1440,
-      "2021-01-07": 1440
+      "2021-01-08": 1440
     }
   },
   {
@@ -517,9 +516,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 458,
-    "timeDay": 537,
-    "timeWeek": 400,
-    "timeMonth": 442,
+    "timeDay": 370,
+    "timeWeek": 382,
+    "timeMonth": 437,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2021-02-18": 41,
