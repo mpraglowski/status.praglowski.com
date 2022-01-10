@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 574,
-    "timeDay": 282,
-    "timeWeek": 393,
-    "timeMonth": 450,
+    "timeDay": 578,
+    "timeWeek": 439,
+    "timeMonth": 453,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2021-07-29": 20,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 546,
-    "timeDay": 229,
-    "timeWeek": 328,
+    "timeDay": 495,
+    "timeWeek": 368,
     "timeMonth": 403,
-    "timeYear": 552,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2021-07-29": 19,
       "2021-01-24": 111
@@ -52,13 +52,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3885,
-    "timeDay": 5645,
-    "timeWeek": 5601,
-    "timeMonth": 5527,
-    "timeYear": 3974,
+    "time": 3889,
+    "timeDay": 5400,
+    "timeWeek": 5556,
+    "timeMonth": 5525,
+    "timeYear": 3987,
     "dailyMinutesDown": {
-      "2022-01-09": 1283,
+      "2022-01-10": 8,
+      "2022-01-09": 1440,
       "2022-01-08": 1440,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
@@ -421,8 +422,7 @@
       "2021-01-14": 1440,
       "2021-01-13": 1440,
       "2021-01-12": 1440,
-      "2021-01-11": 1440,
-      "2021-01-10": 1440
+      "2021-01-11": 1440
     }
   },
   {
@@ -437,10 +437,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 89,
-    "timeWeek": 132,
-    "timeMonth": 130,
-    "timeYear": 145,
+    "timeDay": 102,
+    "timeWeek": 128,
+    "timeMonth": 127,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -450,17 +450,16 @@
     "slug": "talks-praglowski-com",
     "status": "up",
     "uptime": "86.76%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "89.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "89.20%",
     "time": 205,
-    "timeDay": 212,
-    "timeWeek": 724,
+    "timeDay": 197,
+    "timeWeek": 718,
     "timeMonth": 357,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-01-09": 9,
       "2021-02-18": 600,
       "2021-02-17": 1440,
       "2021-02-16": 1440,
@@ -499,8 +498,7 @@
       "2021-01-14": 1440,
       "2021-01-13": 1440,
       "2021-01-12": 1440,
-      "2021-01-11": 1440,
-      "2021-01-10": 1440
+      "2021-01-11": 1440
     }
   },
   {
@@ -515,10 +513,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 456,
-    "timeDay": 79,
-    "timeWeek": 310,
-    "timeMonth": 409,
-    "timeYear": 457,
+    "timeDay": 325,
+    "timeWeek": 326,
+    "timeMonth": 402,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2021-02-18": 41,
       "2021-01-24": 58
