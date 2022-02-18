@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 440,
+    "time": 561,
+    "timeDay": 216,
     "timeWeek": 366,
-    "timeMonth": 425,
+    "timeMonth": 418,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2021-07-29": 20
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 603,
-    "timeWeek": 380,
-    "timeMonth": 425,
+    "time": 535,
+    "timeDay": 212,
+    "timeWeek": 381,
+    "timeMonth": 415,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2021-07-29": 19
@@ -50,13 +50,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4041,
-    "timeDay": 5456,
-    "timeWeek": 5594,
-    "timeMonth": 5570,
+    "time": 4045,
+    "timeDay": 5754,
+    "timeWeek": 5599,
+    "timeMonth": 5580,
     "timeYear": 4351,
     "dailyMinutesDown": {
-      "2022-02-17": 7,
+      "2022-02-18": 8,
+      "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
@@ -419,8 +420,7 @@
       "2021-02-22": 1440,
       "2021-02-21": 1440,
       "2021-02-20": 1440,
-      "2021-02-19": 1440,
-      "2021-02-18": 1440
+      "2021-02-19": 1440
     }
   },
   {
@@ -435,10 +435,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 106,
-    "timeWeek": 175,
-    "timeMonth": 134,
-    "timeYear": 143,
+    "timeDay": 252,
+    "timeWeek": 176,
+    "timeMonth": 139,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -447,19 +447,17 @@
     "icon": "https://favicons.githubusercontent.com/talks.praglowski.com",
     "slug": "talks-praglowski-com",
     "status": "up",
-    "uptime": "87.98%",
+    "uptime": "88.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.89%",
     "time": 279,
-    "timeDay": 180,
-    "timeWeek": 617,
-    "timeMonth": 945,
+    "timeDay": 261,
+    "timeWeek": 622,
+    "timeMonth": 948,
     "timeYear": 279,
-    "dailyMinutesDown": {
-      "2021-02-18": 600
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "europebycar.info",
@@ -473,12 +471,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 452,
-    "timeDay": 1262,
-    "timeWeek": 441,
-    "timeMonth": 425,
+    "timeDay": 231,
+    "timeWeek": 443,
+    "timeMonth": 417,
     "timeYear": 435,
-    "dailyMinutesDown": {
-      "2021-02-18": 41
-    }
+    "dailyMinutesDown": {}
   }
 ]
