@@ -6,17 +6,16 @@
     "slug": "praglowski-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 1094,
-    "timeWeek": 654,
-    "timeMonth": 452,
-    "timeYear": 596,
+    "timeDay": 1119,
+    "timeWeek": 651,
+    "timeMonth": 462,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2022-03-09": 8,
       "2021-07-29": 20
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 531,
-    "timeDay": 414,
-    "timeWeek": 484,
-    "timeMonth": 404,
-    "timeYear": 554,
+    "timeDay": 567,
+    "timeWeek": 505,
+    "timeMonth": 411,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2021-07-29": 19
     }
@@ -51,13 +50,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 4112,
-    "timeDay": 5506,
-    "timeWeek": 5529,
-    "timeMonth": 5581,
+    "time": 4115,
+    "timeDay": 5457,
+    "timeWeek": 5526,
+    "timeMonth": 5580,
     "timeYear": 4355,
     "dailyMinutesDown": {
-      "2022-03-09": 814,
+      "2022-03-10": 10,
+      "2022-03-09": 1440,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
@@ -420,8 +420,7 @@
       "2021-03-14": 1440,
       "2021-03-13": 1440,
       "2021-03-12": 1440,
-      "2021-03-11": 1440,
-      "2021-03-10": 1440
+      "2021-03-11": 1440
     }
   },
   {
@@ -436,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 94,
-    "timeWeek": 127,
-    "timeMonth": 154,
+    "timeDay": 112,
+    "timeWeek": 126,
+    "timeMonth": 155,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -448,15 +447,15 @@
     "icon": "https://favicons.githubusercontent.com/talks.praglowski.com",
     "slug": "talks-praglowski-com",
     "status": "up",
-    "uptime": "88.55%",
+    "uptime": "88.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 130,
-    "timeWeek": 159,
-    "timeMonth": 323,
+    "timeDay": 113,
+    "timeWeek": 152,
+    "timeMonth": 322,
     "timeYear": 282,
     "dailyMinutesDown": {}
   },
@@ -472,10 +471,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 318,
-    "timeWeek": 408,
-    "timeMonth": 386,
-    "timeYear": 360,
+    "timeDay": 300,
+    "timeWeek": 389,
+    "timeMonth": 381,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   }
 ]
