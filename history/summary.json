@@ -56,7 +56,7 @@
     "timeMonth": 5556,
     "timeYear": 4355,
     "dailyMinutesDown": {
-      "2022-03-25": 1428,
+      "2022-03-25": 1435,
       "2022-03-24": 1440,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
@@ -446,19 +446,19 @@
     "url": "https://talks.praglowski.com",
     "icon": "https://favicons.githubusercontent.com/talks.praglowski.com",
     "slug": "talks-praglowski-com",
-    "status": "down",
+    "status": "up",
     "uptime": "88.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 110,
-    "timeWeek": 147,
-    "timeMonth": 228,
+    "time": 272,
+    "timeDay": 114,
+    "timeWeek": 144,
+    "timeMonth": 225,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2022-03-25": 0
+      "2022-03-25": 6
     }
   },
   {
