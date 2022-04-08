@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 398,
-    "timeWeek": 352,
+    "timeDay": 382,
+    "timeWeek": 353,
     "timeMonth": 456,
     "timeYear": 561,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 527,
-    "timeDay": 347,
-    "timeWeek": 549,
-    "timeMonth": 485,
+    "timeDay": 405,
+    "timeWeek": 553,
+    "timeMonth": 470,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2021-07-29": 19
@@ -50,13 +50,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 4201,
-    "timeDay": 5474,
-    "timeWeek": 5495,
-    "timeMonth": 5530,
-    "timeYear": 4366,
+    "time": 4204,
+    "timeDay": 5513,
+    "timeWeek": 5496,
+    "timeMonth": 5532,
+    "timeYear": 4379,
     "dailyMinutesDown": {
-      "2022-04-07": 1244,
+      "2022-04-08": 12,
+      "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
@@ -419,8 +420,7 @@
       "2021-04-12": 1440,
       "2021-04-11": 1440,
       "2021-04-10": 1440,
-      "2021-04-09": 1440,
-      "2021-04-08": 1440
+      "2021-04-09": 1440
     }
   },
   {
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 82,
-    "timeWeek": 146,
-    "timeMonth": 131,
+    "timeDay": 100,
+    "timeWeek": 143,
+    "timeMonth": 129,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -447,19 +447,17 @@
     "icon": "https://favicons.githubusercontent.com/talks.praglowski.com",
     "slug": "talks-praglowski-com",
     "status": "up",
-    "uptime": "89.27%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptime": "89.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 125,
+    "timeDay": 127,
     "timeWeek": 119,
-    "timeMonth": 210,
+    "timeMonth": 209,
     "timeYear": 283,
-    "dailyMinutesDown": {
-      "2022-04-07": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "europebycar.info",
@@ -473,10 +471,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 223,
-    "timeWeek": 336,
-    "timeMonth": 366,
-    "timeYear": 363,
+    "timeDay": 249,
+    "timeWeek": 321,
+    "timeMonth": 358,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   }
 ]
