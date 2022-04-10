@@ -56,7 +56,7 @@
     "timeMonth": 5536,
     "timeYear": 4406,
     "dailyMinutesDown": {
-      "2022-04-10": 11,
+      "2022-04-10": 201,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
@@ -446,18 +446,20 @@
     "url": "https://talks.praglowski.com",
     "icon": "https://favicons.githubusercontent.com/talks.praglowski.com",
     "slug": "talks-praglowski-com",
-    "status": "up",
-    "uptime": "89.32%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "89.33%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 227,
-    "timeWeek": 132,
-    "timeMonth": 212,
+    "timeDay": 165,
+    "timeWeek": 129,
+    "timeMonth": 209,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 0
+    }
   },
   {
     "name": "europebycar.info",
