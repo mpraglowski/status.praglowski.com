@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 565,
-    "timeDay": 367,
-    "timeWeek": 362,
-    "timeMonth": 389,
-    "timeYear": 530,
+    "timeDay": 252,
+    "timeWeek": 341,
+    "timeMonth": 386,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2021-07-29": 20
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 518,
-    "timeDay": 376,
-    "timeWeek": 505,
-    "timeMonth": 376,
+    "timeDay": 290,
+    "timeWeek": 497,
+    "timeMonth": 375,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2021-07-29": 19
@@ -50,13 +50,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 4351,
-    "timeDay": 5461,
-    "timeWeek": 5532,
-    "timeMonth": 5587,
-    "timeYear": 4816,
+    "time": 4361,
+    "timeDay": 5772,
+    "timeWeek": 5573,
+    "timeMonth": 5590,
+    "timeYear": 4831,
     "dailyMinutesDown": {
-      "2022-05-18": 12,
+      "2022-05-19": 13,
+      "2022-05-18": 1440,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
@@ -419,8 +420,7 @@
       "2021-05-23": 1440,
       "2021-05-22": 1440,
       "2021-05-21": 1440,
-      "2021-05-20": 1440,
-      "2021-05-19": 1440
+      "2021-05-20": 1440
     }
   },
   {
@@ -434,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 73,
-    "timeWeek": 123,
-    "timeMonth": 150,
-    "timeYear": 138,
+    "time": 143,
+    "timeDay": 176,
+    "timeWeek": 130,
+    "timeMonth": 152,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -447,15 +447,15 @@
     "icon": "https://favicons.githubusercontent.com/talks.praglowski.com",
     "slug": "talks-praglowski-com",
     "status": "up",
-    "uptime": "90.12%",
+    "uptime": "90.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 305,
-    "timeDay": 157,
-    "timeWeek": 188,
-    "timeMonth": 290,
+    "time": 304,
+    "timeDay": 185,
+    "timeWeek": 197,
+    "timeMonth": 295,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2022-05-02": 17,
@@ -474,9 +474,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 425,
-    "timeDay": 339,
-    "timeWeek": 533,
-    "timeMonth": 350,
+    "timeDay": 144,
+    "timeWeek": 517,
+    "timeMonth": 348,
     "timeYear": 374,
     "dailyMinutesDown": {}
   }
