@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 289,
-    "timeDay": 113,
-    "timeWeek": 114,
+    "timeDay": 56,
+    "timeWeek": 107,
     "timeMonth": 101,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 422,
-    "timeDay": 431,
-    "timeWeek": 416,
-    "timeMonth": 379,
-    "timeYear": 421,
+    "timeDay": 422,
+    "timeWeek": 415,
+    "timeMonth": 383,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2022-07-01": 56,
       "2022-06-30": 155,
@@ -49,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "25.17%",
+    "uptime": "25.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.71%",
-    "time": 3249,
-    "timeDay": 116,
-    "timeWeek": 124,
-    "timeMonth": 130,
-    "timeYear": 2405,
+    "uptimeYear": "58.98%",
+    "time": 3239,
+    "timeDay": 128,
+    "timeWeek": 127,
+    "timeMonth": 131,
+    "timeYear": 2390,
     "dailyMinutesDown": {
       "2022-09-28": 1059,
       "2022-09-27": 1440,
@@ -208,8 +208,7 @@
       "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
-      "2022-05-03": 1440,
-      "2022-05-02": 1440
+      "2022-05-03": 1440
     }
   },
   {
@@ -224,9 +223,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 169,
-    "timeDay": 179,
-    "timeWeek": 104,
-    "timeMonth": 126,
+    "timeDay": 114,
+    "timeWeek": 113,
+    "timeMonth": 128,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2022-07-01": 56,
@@ -240,23 +239,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/talks.praglowski.com.ico",
     "slug": "talks-praglowski-com",
     "status": "up",
-    "uptime": "94.13%",
+    "uptime": "94.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 440,
-    "timeDay": 279,
-    "timeWeek": 228,
-    "timeMonth": 244,
+    "timeDay": 152,
+    "timeWeek": 231,
+    "timeMonth": 255,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2022-09-27": 19,
       "2022-09-03": 57,
       "2022-07-01": 56,
       "2022-06-30": 158,
-      "2022-06-21": 22,
-      "2022-05-02": 17
+      "2022-06-21": 22
     }
   },
   {
@@ -271,10 +269,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 346,
-    "timeDay": 311,
+    "timeDay": 389,
     "timeWeek": 659,
-    "timeMonth": 380,
-    "timeYear": 334,
+    "timeMonth": 379,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2022-11-03": 56
     }
