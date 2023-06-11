@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 263,
-    "timeDay": 107,
-    "timeWeek": 102,
-    "timeMonth": 97,
+    "timeDay": 84,
+    "timeWeek": 98,
+    "timeMonth": 96,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2022-07-01": 56,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 419,
-    "timeDay": 237,
-    "timeWeek": 313,
-    "timeMonth": 388,
+    "timeDay": 363,
+    "timeWeek": 319,
+    "timeMonth": 385,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2022-07-01": 56,
@@ -49,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "28.53%",
+    "uptime": "28.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.66%",
-    "time": 2818,
-    "timeDay": 147,
-    "timeWeek": 134,
+    "uptimeYear": "69.94%",
+    "time": 2807,
+    "timeDay": 134,
+    "timeWeek": 136,
     "timeMonth": 139,
-    "timeYear": 1806,
+    "timeYear": 1791,
     "dailyMinutesDown": {
       "2022-09-28": 1059,
       "2022-09-27": 1440,
@@ -168,8 +168,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   },
   {
@@ -184,8 +183,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 167,
-    "timeDay": 191,
-    "timeWeek": 167,
+    "timeDay": 105,
+    "timeWeek": 156,
     "timeMonth": 127,
     "timeYear": 172,
     "dailyMinutesDown": {
@@ -206,9 +205,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 402,
-    "timeDay": 188,
-    "timeWeek": 192,
-    "timeMonth": 277,
+    "timeDay": 144,
+    "timeWeek": 178,
+    "timeMonth": 276,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2022-09-27": 19,
@@ -230,10 +229,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 340,
-    "timeDay": 196,
-    "timeWeek": 182,
+    "timeDay": 385,
+    "timeWeek": 223,
     "timeMonth": 297,
-    "timeYear": 319,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2022-11-03": 56
     }
