@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 253,
-    "timeDay": 117,
-    "timeWeek": 122,
-    "timeMonth": 100,
-    "timeYear": 189,
+    "time": 252,
+    "timeDay": 46,
+    "timeWeek": 119,
+    "timeMonth": 98,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2022-07-01": 56,
-      "2022-06-30": 155,
-      "2022-06-21": 23
+      "2022-06-30": 155
     }
   },
   {
@@ -32,15 +31,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 419,
-    "timeDay": 310,
-    "timeWeek": 330,
-    "timeMonth": 364,
+    "time": 418,
+    "timeDay": 179,
+    "timeWeek": 308,
+    "timeMonth": 355,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2022-07-01": 56,
-      "2022-06-30": 155,
-      "2022-06-21": 22
+      "2022-06-30": 155
     }
   },
   {
@@ -49,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "29.32%",
+    "uptime": "29.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "72.40%",
-    "time": 2709,
-    "timeDay": 249,
-    "timeWeek": 134,
-    "timeMonth": 138,
-    "timeYear": 1656,
+    "uptimeYear": "72.68%",
+    "time": 2698,
+    "timeDay": 133,
+    "timeWeek": 131,
+    "timeMonth": 137,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2022-09-28": 1059,
       "2022-09-27": 1440,
@@ -158,8 +156,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -174,14 +171,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 167,
-    "timeDay": 145,
-    "timeWeek": 132,
-    "timeMonth": 131,
+    "timeDay": 268,
+    "timeWeek": 156,
+    "timeMonth": 136,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2022-07-01": 56,
-      "2022-06-30": 158,
-      "2022-06-21": 22
+      "2022-06-30": 158
     }
   },
   {
@@ -190,22 +186,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/talks.praglowski.com.ico",
     "slug": "talks-praglowski-com",
     "status": "up",
-    "uptime": "94.46%",
+    "uptime": "94.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 397,
-    "timeDay": 448,
-    "timeWeek": 227,
-    "timeMonth": 209,
-    "timeYear": 412,
+    "timeDay": 347,
+    "timeWeek": 254,
+    "timeMonth": 211,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2022-09-27": 19,
       "2022-09-03": 57,
       "2022-07-01": 56,
-      "2022-06-30": 158,
-      "2022-06-21": 22
+      "2022-06-30": 158
     }
   },
   {
@@ -220,9 +215,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 337,
-    "timeDay": 344,
-    "timeWeek": 319,
-    "timeMonth": 289,
+    "timeDay": 191,
+    "timeWeek": 290,
+    "timeMonth": 285,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2022-11-03": 56
