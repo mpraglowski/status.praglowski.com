@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 76,
-    "timeWeek": 98,
+    "timeDay": 114,
+    "timeWeek": 99,
     "timeMonth": 98,
-    "timeYear": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 221,
-    "timeWeek": 287,
-    "timeMonth": 302,
+    "time": 413,
+    "timeDay": 803,
+    "timeWeek": 346,
+    "timeMonth": 321,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "30.71%",
+    "uptime": "30.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.34%",
-    "time": 2513,
-    "timeDay": 124,
-    "timeWeek": 133,
+    "uptimeYear": "77.61%",
+    "time": 2501,
+    "timeDay": 143,
+    "timeWeek": 134,
     "timeMonth": 128,
-    "timeYear": 1385,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2022-09-28": 1059,
       "2022-09-27": 1440,
@@ -132,8 +132,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   },
   {
@@ -148,10 +147,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 145,
-    "timeWeek": 138,
-    "timeMonth": 140,
-    "timeYear": 151,
+    "timeDay": 90,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   },
   {
@@ -166,10 +165,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 396,
-    "timeDay": 365,
-    "timeWeek": 233,
-    "timeMonth": 220,
-    "timeYear": 367,
+    "timeDay": 155,
+    "timeWeek": 235,
+    "timeMonth": 219,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2022-09-27": 19,
       "2022-09-03": 57
@@ -187,9 +186,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 332,
-    "timeDay": 203,
-    "timeWeek": 264,
-    "timeMonth": 267,
+    "timeDay": 413,
+    "timeWeek": 291,
+    "timeMonth": 275,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2022-11-03": 56
