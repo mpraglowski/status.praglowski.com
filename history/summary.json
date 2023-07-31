@@ -118,19 +118,19 @@
     "url": "https://slub.praglowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/slub.praglowski.com.ico",
     "slug": "slub-praglowski-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 158,
-    "timeWeek": 148,
-    "timeMonth": 136,
+    "timeDay": 110,
+    "timeWeek": 138,
+    "timeMonth": 134,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-07-31": 0
+      "2023-07-31": 7
     }
   },
   {
