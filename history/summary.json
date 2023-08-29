@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 94,
-    "timeWeek": 109,
-    "timeMonth": 105,
+    "timeDay": 129,
+    "timeWeek": 111,
+    "timeMonth": 108,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 310,
-    "timeWeek": 318,
+    "timeDay": 312,
+    "timeWeek": 331,
     "timeMonth": 313,
     "timeYear": 364,
     "dailyMinutesDown": {}
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "34.39%",
+    "uptime": "34.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.49%",
-    "time": 1960,
-    "timeDay": 144,
+    "uptimeYear": "91.58%",
+    "time": 1949,
+    "timeDay": 114,
     "timeWeek": 136,
     "timeMonth": 140,
-    "timeYear": 619,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2022-09-28": 1059,
       "2022-09-27": 1440,
@@ -81,8 +81,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -97,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 156,
-    "timeWeek": 164,
-    "timeMonth": 146,
+    "timeDay": 202,
+    "timeWeek": 166,
+    "timeMonth": 150,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -115,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 399,
-    "timeDay": 256,
+    "timeDay": 339,
     "timeWeek": 265,
-    "timeMonth": 238,
-    "timeYear": 338,
+    "timeMonth": 243,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2022-09-27": 19,
       "2022-09-03": 57
@@ -131,17 +130,17 @@
     "slug": "europebycar-info",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 322,
-    "timeDay": 230,
-    "timeWeek": 285,
-    "timeMonth": 281,
+    "timeDay": 223,
+    "timeWeek": 260,
+    "timeMonth": 278,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-08-28": 32,
+      "2023-08-28": 24,
       "2022-11-03": 56
     }
   }
