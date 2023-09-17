@@ -45,7 +45,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.79%",
     "time": 1742,
     "timeDay": 130,
     "timeWeek": 138,
@@ -62,8 +62,7 @@
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
-      "2022-09-18": 1440,
-      "2022-09-17": 1440
+      "2022-09-18": 1440
     }
   },
   {
@@ -91,9 +90,9 @@
     "slug": "talks-praglowski-com",
     "status": "up",
     "uptime": "94.96%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
     "timeDay": 135,
@@ -101,7 +100,6 @@
     "timeMonth": 237,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2023-09-16": 5,
       "2022-09-27": 19
     }
   },
