@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 81,
-    "timeWeek": 91,
+    "time": 177,
+    "timeDay": 113,
+    "timeWeek": 99,
     "timeMonth": 106,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
-    "timeDay": 362,
-    "timeWeek": 316,
-    "timeMonth": 345,
-    "timeYear": 363,
+    "timeDay": 365,
+    "timeWeek": 315,
+    "timeMonth": 349,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -41,24 +41,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "35.93%",
+    "uptime": "36.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.88%",
-    "time": 1698,
-    "timeDay": 125,
-    "timeWeek": 125,
+    "uptimeYear": "98.16%",
+    "time": 1687,
+    "timeDay": 129,
+    "timeWeek": 129,
     "timeMonth": 139,
-    "timeYear": 261,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2022-09-28": 1059,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 1440
+      "2022-09-23": 1440
     }
   },
   {
@@ -73,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 88,
-    "timeWeek": 139,
-    "timeMonth": 152,
-    "timeYear": 149,
+    "timeDay": 95,
+    "timeWeek": 144,
+    "timeMonth": 149,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   },
   {
@@ -91,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 93,
+    "timeDay": 90,
     "timeWeek": 150,
-    "timeMonth": 233,
+    "timeMonth": 225,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2022-09-27": 19
@@ -112,8 +111,8 @@
     "uptimeYear": "99.98%",
     "time": 316,
     "timeDay": 397,
-    "timeWeek": 325,
-    "timeMonth": 303,
+    "timeWeek": 326,
+    "timeMonth": 299,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2023-08-28": 24,
