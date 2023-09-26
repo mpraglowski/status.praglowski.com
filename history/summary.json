@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 108,
+    "time": 175,
+    "timeDay": 163,
+    "timeWeek": 124,
+    "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 910,
-    "timeWeek": 408,
+    "timeDay": 341,
+    "timeWeek": 411,
     "timeMonth": 367,
-    "timeYear": 365,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -41,20 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "36.19%",
+    "uptime": "36.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.98%",
-    "time": 1655,
-    "timeDay": 162,
-    "timeWeek": 140,
-    "timeMonth": 141,
-    "timeYear": 202,
+    "uptimeYear": "99.25%",
+    "time": 1644,
+    "timeDay": 182,
+    "timeWeek": 152,
+    "timeMonth": 142,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2022-09-28": 1059,
-      "2022-09-27": 1440,
-      "2022-09-26": 1440
+      "2022-09-27": 1440
     }
   },
   {
@@ -69,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 165,
-    "timeWeek": 130,
+    "timeDay": 188,
+    "timeWeek": 145,
     "timeMonth": 154,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -87,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 205,
-    "timeWeek": 177,
-    "timeMonth": 225,
-    "timeYear": 319,
+    "timeDay": 736,
+    "timeWeek": 259,
+    "timeMonth": 239,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2022-09-27": 19
     }
@@ -107,10 +106,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 313,
-    "timeDay": 310,
-    "timeWeek": 307,
-    "timeMonth": 292,
-    "timeYear": 302,
+    "timeDay": 174,
+    "timeWeek": 279,
+    "timeMonth": 287,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2023-08-28": 24,
       "2022-11-03": 56
