@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 88,
-    "timeWeek": 118,
+    "timeDay": 115,
+    "timeWeek": 123,
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
-    "timeDay": 353,
-    "timeWeek": 427,
-    "timeMonth": 368,
+    "timeDay": 229,
+    "timeWeek": 408,
+    "timeMonth": 365,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "36.32%",
+    "uptime": "36.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
-    "time": 1634,
-    "timeDay": 129,
-    "timeWeek": 149,
-    "timeMonth": 143,
-    "timeYear": 172,
-    "dailyMinutesDown": {
-      "2022-09-28": 1059
-    }
+    "uptimeYear": "99.80%",
+    "time": 1623,
+    "timeDay": 141,
+    "timeWeek": 152,
+    "timeMonth": 142,
+    "timeYear": 157,
+    "dailyMinutesDown": {}
   },
   {
     "name": "slub.praglowski.com",
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 90,
-    "timeWeek": 139,
+    "timeDay": 151,
+    "timeWeek": 148,
     "timeMonth": 149,
-    "timeYear": 149,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   },
   {
@@ -85,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 138,
-    "timeWeek": 243,
-    "timeMonth": 233,
-    "timeYear": 321,
+    "timeDay": 189,
+    "timeWeek": 257,
+    "timeMonth": 231,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   },
   {
@@ -103,9 +101,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 313,
-    "timeDay": 404,
-    "timeWeek": 303,
-    "timeMonth": 294,
+    "timeDay": 235,
+    "timeWeek": 280,
+    "timeMonth": 293,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2023-08-28": 24,
