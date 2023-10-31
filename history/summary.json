@@ -22,18 +22,20 @@
     "url": "https://praglowska.com",
     "icon": "https://icons.duckduckgo.com/ip3/praglowska.com.ico",
     "slug": "praglowska-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 223,
-    "timeWeek": 310,
-    "timeMonth": 328,
+    "timeDay": 182,
+    "timeWeek": 293,
+    "timeMonth": 322,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-31": 0
+    }
   },
   {
     "name": "tomek.praglowski.com",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "38.41%",
+    "uptime": "38.43%",
     "uptimeDay": "98.27%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
@@ -96,9 +98,9 @@
     "url": "https://europebycar.info",
     "icon": "https://icons.duckduckgo.com/ip3/europebycar.info.ico",
     "slug": "europebycar-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -108,6 +110,7 @@
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2023-10-31": 0,
       "2023-08-28": 24,
       "2022-11-03": 56
     }
