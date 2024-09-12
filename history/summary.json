@@ -82,19 +82,19 @@
     "url": "https://talks.praglowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/talks.praglowski.com.ico",
     "slug": "talks-praglowski-com",
-    "status": "down",
+    "status": "up",
     "uptime": "96.31%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 175,
-    "timeWeek": 184,
-    "timeMonth": 185,
+    "timeDay": 194,
+    "timeWeek": 190,
+    "timeMonth": 186,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 7
     }
   },
   {
