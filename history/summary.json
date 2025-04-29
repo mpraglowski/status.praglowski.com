@@ -78,9 +78,9 @@
     "slug": "talks-praglowski-com",
     "status": "down",
     "uptime": "96.84%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 149,
@@ -88,7 +88,7 @@
     "timeMonth": 245,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-04-29": 0
+      "2025-04-29": 7
     }
   },
   {
