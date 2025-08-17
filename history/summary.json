@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 196,
-    "timeWeek": 172,
-    "timeMonth": 158,
+    "timeDay": 90,
+    "timeWeek": 165,
+    "timeMonth": 154,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 364,
-    "timeWeek": 445,
-    "timeMonth": 421,
+    "timeDay": 411,
+    "timeWeek": 443,
+    "timeMonth": 419,
     "timeYear": 373,
     "dailyMinutesDown": {}
   },
@@ -41,14 +41,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "62.30%",
+    "uptime": "62.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 291,
-    "timeWeek": 236,
+    "timeDay": 126,
+    "timeWeek": 229,
     "timeMonth": 215,
     "timeYear": 183,
     "dailyMinutesDown": {}
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 439,
-    "timeWeek": 254,
-    "timeMonth": 211,
+    "timeDay": 99,
+    "timeWeek": 243,
+    "timeMonth": 209,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 243,
-    "timeWeek": 589,
-    "timeMonth": 343,
-    "timeYear": 244,
+    "timeDay": 312,
+    "timeWeek": 605,
+    "timeMonth": 331,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2025-04-29": 26
     }
@@ -98,17 +98,15 @@
     "slug": "europebycar-info",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 383,
-    "timeWeek": 383,
-    "timeMonth": 518,
-    "timeYear": 392,
-    "dailyMinutesDown": {
-      "2025-08-16": 10
-    }
+    "time": 390,
+    "timeDay": 902,
+    "timeWeek": 506,
+    "timeMonth": 549,
+    "timeYear": 395,
+    "dailyMinutesDown": {}
   }
 ]
