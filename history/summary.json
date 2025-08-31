@@ -22,19 +22,19 @@
     "url": "https://praglowska.com",
     "icon": "https://icons.duckduckgo.com/ip3/praglowska.com.ico",
     "slug": "praglowska-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 204,
-    "timeWeek": 400,
+    "timeDay": 280,
+    "timeWeek": 403,
     "timeMonth": 435,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2025-08-31": 0
+      "2025-08-31": 8
     }
   },
   {
