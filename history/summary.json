@@ -22,18 +22,20 @@
     "url": "https://praglowska.com",
     "icon": "https://icons.duckduckgo.com/ip3/praglowska.com.ico",
     "slug": "praglowska-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 203,
-    "timeWeek": 428,
-    "timeMonth": 443,
-    "timeYear": 376,
-    "dailyMinutesDown": {}
+    "timeDay": 204,
+    "timeWeek": 400,
+    "timeMonth": 435,
+    "timeYear": 375,
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   },
   {
     "name": "tomek.praglowski.com",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "62.62%",
+    "uptime": "62.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
