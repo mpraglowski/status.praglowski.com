@@ -46,19 +46,19 @@
     "url": "https://tomek.praglowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
-    "status": "down",
+    "status": "up",
     "uptime": "64.29%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 187,
-    "timeDay": 208,
-    "timeWeek": 221,
-    "timeMonth": 203,
+    "timeDay": 220,
+    "timeWeek": 225,
+    "timeMonth": 205,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-11-18": 109
+      "2025-11-18": 118
     }
   },
   {
