@@ -4,19 +4,19 @@
     "url": "https://praglowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/praglowski.com.ico",
     "slug": "praglowski-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 155,
-    "timeWeek": 180,
-    "timeMonth": 166,
+    "time": 157,
+    "timeDay": 139,
+    "timeWeek": 171,
+    "timeMonth": 164,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-11-18": 6
+      "2025-11-18": 0
     }
   },
   {
@@ -24,18 +24,19 @@
     "url": "https://praglowska.com",
     "icon": "https://icons.duckduckgo.com/ip3/praglowska.com.ico",
     "slug": "praglowska-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 374,
-    "timeDay": 594,
-    "timeWeek": 355,
-    "timeMonth": 395,
-    "timeYear": 377,
+    "time": 373,
+    "timeDay": 340,
+    "timeWeek": 339,
+    "timeMonth": 388,
+    "timeYear": 376,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-09-16": 68,
       "2025-08-31": 18
     }
@@ -45,18 +46,20 @@
     "url": "https://tomek.praglowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
-    "status": "up",
+    "status": "down",
     "uptime": "64.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 373,
-    "timeWeek": 250,
-    "timeMonth": 208,
-    "timeYear": 194,
-    "dailyMinutesDown": {}
+    "timeDay": 220,
+    "timeWeek": 227,
+    "timeMonth": 203,
+    "timeYear": 193,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "slub.praglowski.com",
@@ -65,9 +68,9 @@
     "slug": "slub-praglowski-com",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 197,
     "timeDay": 210,
@@ -75,7 +78,7 @@
     "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 13
     }
   },
   {
@@ -83,18 +86,19 @@
     "url": "https://talks.praglowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/talks.praglowski.com.ico",
     "slug": "talks-praglowski-com",
-    "status": "up",
+    "status": "down",
     "uptime": "97.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 395,
-    "timeDay": 314,
-    "timeWeek": 274,
-    "timeMonth": 1837,
-    "timeYear": 454,
+    "timeDay": 255,
+    "timeWeek": 254,
+    "timeMonth": 1792,
+    "timeYear": 453,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-20": 19,
       "2025-04-29": 26
     }
