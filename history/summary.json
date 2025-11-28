@@ -11,9 +11,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 156,
-    "timeDay": 88,
-    "timeWeek": 133,
-    "timeMonth": 150,
+    "timeDay": 187,
+    "timeWeek": 120,
+    "timeMonth": 151,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2025-11-18": 109
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
     "time": 375,
-    "timeDay": 233,
-    "timeWeek": 326,
-    "timeMonth": 375,
+    "timeDay": 410,
+    "timeWeek": 331,
+    "timeMonth": 378,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "64.45%",
+    "uptime": "64.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 122,
-    "timeWeek": 179,
-    "timeMonth": 206,
-    "timeYear": 194,
+    "timeDay": 113,
+    "timeWeek": 167,
+    "timeMonth": 205,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2025-11-18": 118
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
     "time": 198,
-    "timeDay": 128,
-    "timeWeek": 174,
-    "timeMonth": 209,
+    "timeDay": 215,
+    "timeWeek": 170,
+    "timeMonth": 210,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-11-18": 121
@@ -93,9 +93,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 399,
-    "timeDay": 145,
-    "timeWeek": 163,
-    "timeMonth": 787,
+    "timeDay": 148,
+    "timeWeek": 156,
+    "timeMonth": 786,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 706,
-    "timeWeek": 345,
-    "timeMonth": 474,
-    "timeYear": 394,
+    "time": 393,
+    "timeDay": 339,
+    "timeWeek": 352,
+    "timeMonth": 478,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
