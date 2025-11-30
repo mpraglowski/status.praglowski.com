@@ -11,9 +11,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 157,
-    "timeDay": 335,
-    "timeWeek": 156,
-    "timeMonth": 157,
+    "timeDay": 173,
+    "timeWeek": 171,
+    "timeMonth": 158,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-11-18": 109
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
     "time": 375,
-    "timeDay": 454,
-    "timeWeek": 336,
-    "timeMonth": 365,
+    "timeDay": 341,
+    "timeWeek": 350,
+    "timeMonth": 363,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "64.49%",
+    "uptime": "64.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 326,
-    "timeWeek": 185,
-    "timeMonth": 204,
+    "timeDay": 190,
+    "timeWeek": 192,
+    "timeMonth": 205,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 118
@@ -73,10 +73,10 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
     "time": 198,
-    "timeDay": 162,
-    "timeWeek": 170,
-    "timeMonth": 209,
-    "timeYear": 211,
+    "timeDay": 234,
+    "timeWeek": 171,
+    "timeMonth": 210,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2025-11-18": 121
     }
@@ -93,9 +93,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 400,
-    "timeDay": 483,
-    "timeWeek": 211,
-    "timeMonth": 794,
+    "timeDay": 173,
+    "timeWeek": 215,
+    "timeMonth": 790,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 339,
-    "timeWeek": 366,
-    "timeMonth": 476,
+    "timeDay": 345,
+    "timeWeek": 386,
+    "timeMonth": 419,
     "timeYear": 392,
     "dailyMinutesDown": {}
   }
