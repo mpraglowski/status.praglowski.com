@@ -11,9 +11,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 157,
-    "timeDay": 173,
-    "timeWeek": 171,
-    "timeMonth": 158,
+    "timeDay": 110,
+    "timeWeek": 164,
+    "timeMonth": 156,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-11-18": 109
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
     "time": 375,
-    "timeDay": 341,
-    "timeWeek": 350,
-    "timeMonth": 363,
+    "timeDay": 324,
+    "timeWeek": 339,
+    "timeMonth": 359,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "64.51%",
+    "uptime": "64.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 190,
-    "timeWeek": 192,
-    "timeMonth": 205,
+    "timeDay": 207,
+    "timeWeek": 191,
+    "timeMonth": 202,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 118
@@ -73,9 +73,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
     "time": 198,
-    "timeDay": 234,
-    "timeWeek": 171,
-    "timeMonth": 210,
+    "timeDay": 170,
+    "timeWeek": 172,
+    "timeMonth": 213,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2025-11-18": 121
@@ -93,9 +93,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 400,
-    "timeDay": 173,
-    "timeWeek": 215,
-    "timeMonth": 790,
+    "timeDay": 604,
+    "timeWeek": 263,
+    "timeMonth": 800,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 345,
+    "timeDay": 350,
     "timeWeek": 386,
-    "timeMonth": 419,
+    "timeMonth": 422,
     "timeYear": 392,
     "dailyMinutesDown": {}
   }
