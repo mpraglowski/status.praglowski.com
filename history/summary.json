@@ -11,10 +11,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 156,
-    "timeDay": 162,
-    "timeWeek": 159,
-    "timeMonth": 149,
-    "timeYear": 162,
+    "timeDay": 120,
+    "timeWeek": 128,
+    "timeMonth": 146,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2025-11-18": 109
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
     "time": 374,
-    "timeDay": 363,
-    "timeWeek": 351,
-    "timeMonth": 354,
+    "timeDay": 316,
+    "timeWeek": 332,
+    "timeMonth": 351,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "64.61%",
+    "uptime": "64.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 169,
-    "timeWeek": 206,
-    "timeMonth": 197,
+    "timeDay": 205,
+    "timeWeek": 189,
+    "timeMonth": 196,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 118
@@ -72,10 +72,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
-    "time": 198,
-    "timeDay": 187,
-    "timeWeek": 166,
-    "timeMonth": 208,
+    "time": 199,
+    "timeDay": 247,
+    "timeWeek": 178,
+    "timeMonth": 211,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-11-18": 121
@@ -93,8 +93,8 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 402,
-    "timeDay": 712,
-    "timeWeek": 407,
+    "timeDay": 233,
+    "timeWeek": 371,
     "timeMonth": 814,
     "timeYear": 451,
     "dailyMinutesDown": {
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 294,
-    "timeWeek": 329,
-    "timeMonth": 366,
+    "timeDay": 273,
+    "timeWeek": 320,
+    "timeMonth": 365,
     "timeYear": 391,
     "dailyMinutesDown": {}
   }
