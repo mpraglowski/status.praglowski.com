@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 157,
-    "timeDay": 84,
-    "timeWeek": 153,
-    "timeMonth": 145,
+    "timeDay": 115,
+    "timeWeek": 148,
+    "timeMonth": 144,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-11-18": 109
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 372,
-    "timeDay": 190,
-    "timeWeek": 333,
-    "timeMonth": 332,
+    "timeDay": 429,
+    "timeWeek": 334,
+    "timeMonth": 333,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "64.88%",
+    "uptime": "64.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 126,
-    "timeWeek": 148,
-    "timeMonth": 175,
-    "timeYear": 194,
+    "timeDay": 271,
+    "timeWeek": 173,
+    "timeMonth": 178,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2025-11-18": 118
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 199,
-    "timeDay": 346,
-    "timeWeek": 178,
-    "timeMonth": 175,
+    "timeDay": 249,
+    "timeWeek": 198,
+    "timeMonth": 177,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-11-18": 121
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 404,
-    "timeDay": 154,
-    "timeWeek": 190,
-    "timeMonth": 251,
+    "timeDay": 200,
+    "timeWeek": 201,
+    "timeMonth": 252,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -115,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 812,
-    "timeWeek": 376,
-    "timeMonth": 333,
-    "timeYear": 393,
+    "timeDay": 171,
+    "timeWeek": 343,
+    "timeMonth": 327,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
