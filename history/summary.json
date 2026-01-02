@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 157,
-    "timeDay": 157,
-    "timeWeek": 146,
-    "timeMonth": 138,
+    "time": 156,
+    "timeDay": 87,
+    "timeWeek": 143,
+    "timeMonth": 139,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-11-18": 109
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 370,
-    "timeDay": 535,
-    "timeWeek": 366,
-    "timeMonth": 334,
+    "timeDay": 396,
+    "timeWeek": 368,
+    "timeMonth": 340,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "65.13%",
+    "uptime": "65.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 130,
-    "timeWeek": 161,
-    "timeMonth": 167,
+    "timeDay": 207,
+    "timeWeek": 165,
+    "timeMonth": 170,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 118
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 199,
-    "timeDay": 176,
-    "timeWeek": 199,
-    "timeMonth": 179,
+    "timeDay": 201,
+    "timeWeek": 207,
+    "timeMonth": 182,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2025-11-18": 121
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 405,
-    "timeDay": 180,
-    "timeWeek": 216,
-    "timeMonth": 256,
+    "timeDay": 201,
+    "timeWeek": 214,
+    "timeMonth": 254,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -115,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 264,
-    "timeWeek": 256,
-    "timeMonth": 295,
-    "timeYear": 387,
+    "timeDay": 349,
+    "timeWeek": 261,
+    "timeMonth": 299,
+    "timeYear": 384,
     "dailyMinutesDown": {}
   }
 ]
