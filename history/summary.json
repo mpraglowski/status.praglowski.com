@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 157,
-    "timeDay": 196,
-    "timeWeek": 143,
-    "timeMonth": 141,
+    "time": 156,
+    "timeDay": 81,
+    "timeWeek": 141,
+    "timeMonth": 140,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-11-18": 109
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 371,
-    "timeDay": 494,
-    "timeWeek": 396,
-    "timeMonth": 343,
+    "time": 370,
+    "timeDay": 182,
+    "timeWeek": 382,
+    "timeMonth": 338,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "65.21%",
+    "uptime": "65.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 188,
-    "timeDay": 238,
-    "timeWeek": 173,
-    "timeMonth": 169,
-    "timeYear": 195,
+    "timeDay": 121,
+    "timeWeek": 171,
+    "timeMonth": 166,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-11-18": 118
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 199,
-    "timeDay": 109,
-    "timeWeek": 193,
-    "timeMonth": 183,
+    "timeDay": 185,
+    "timeWeek": 189,
+    "timeMonth": 181,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-11-18": 121
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 405,
-    "timeDay": 138,
-    "timeWeek": 183,
-    "timeMonth": 228,
+    "timeDay": 180,
+    "timeWeek": 190,
+    "timeMonth": 226,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -115,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 415,
+    "timeDay": 204,
     "timeWeek": 284,
-    "timeMonth": 294,
-    "timeYear": 383,
+    "timeMonth": 291,
+    "timeYear": 381,
     "dailyMinutesDown": {}
   }
 ]
