@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 156,
-    "timeDay": 130,
-    "timeWeek": 141,
-    "timeMonth": 146,
+    "timeDay": 154,
+    "timeWeek": 153,
+    "timeMonth": 141,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-11-18": 109
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 370,
-    "timeDay": 324,
-    "timeWeek": 308,
-    "timeMonth": 344,
+    "timeDay": 342,
+    "timeWeek": 331,
+    "timeMonth": 343,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -47,14 +47,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "65.40%",
+    "uptime": "65.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 187,
-    "timeDay": 253,
-    "timeWeek": 177,
+    "timeDay": 157,
+    "timeWeek": 185,
     "timeMonth": 174,
     "timeYear": 194,
     "dailyMinutesDown": {
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 199,
-    "timeDay": 217,
-    "timeWeek": 174,
-    "timeMonth": 187,
-    "timeYear": 213,
+    "timeDay": 286,
+    "timeWeek": 188,
+    "timeMonth": 191,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2025-11-18": 121
     }
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 405,
-    "timeDay": 225,
-    "timeWeek": 209,
-    "timeMonth": 221,
+    "timeDay": 318,
+    "timeWeek": 226,
+    "timeMonth": 222,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-11-18": 109,
@@ -115,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 261,
-    "timeWeek": 270,
-    "timeMonth": 286,
-    "timeYear": 379,
+    "timeDay": 449,
+    "timeWeek": 302,
+    "timeMonth": 292,
+    "timeYear": 380,
     "dailyMinutesDown": {}
   }
 ]
