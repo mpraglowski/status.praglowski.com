@@ -49,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "66.39%",
+    "uptime": "66.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -68,9 +68,9 @@
     "url": "https://slub.praglowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/slub.praglowski.com.ico",
     "slug": "slub-praglowski-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -80,6 +80,7 @@
     "timeMonth": 193,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2026-03-10": 0,
       "2025-11-18": 121
     }
   },
