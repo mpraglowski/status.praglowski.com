@@ -49,9 +49,9 @@
     "url": "https://tomek.praglowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
-    "status": "up",
-    "uptime": "67.10%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "67.11%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -61,6 +61,7 @@
     "timeMonth": 159,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2026-04-20": 0,
       "2025-11-18": 118
     }
   },
