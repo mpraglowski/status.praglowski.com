@@ -55,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "67.58%",
+    "uptime": "67.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -119,17 +119,19 @@
     "url": "https://europebycar.info",
     "icon": "https://icons.duckduckgo.com/ip3/europebycar.info.ico",
     "slug": "europebycar-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 194,
-    "timeWeek": 539,
-    "timeMonth": 418,
-    "timeYear": 368,
-    "dailyMinutesDown": {}
+    "time": 375,
+    "timeDay": 1721,
+    "timeWeek": 878,
+    "timeMonth": 510,
+    "timeYear": 376,
+    "dailyMinutesDown": {
+      "2026-05-19": 0
+    }
   }
 ]
