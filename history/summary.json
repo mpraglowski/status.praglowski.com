@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 173,
-    "timeDay": 163,
-    "timeWeek": 241,
-    "timeMonth": 237,
+    "timeDay": 180,
+    "timeWeek": 223,
+    "timeMonth": 232,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-02-06": 20,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
-    "timeDay": 207,
-    "timeWeek": 359,
-    "timeMonth": 423,
+    "timeDay": 306,
+    "timeWeek": 355,
+    "timeMonth": 419,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2026-02-06": 19
@@ -51,15 +51,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomek.praglowski.com.ico",
     "slug": "tomek-praglowski-com",
     "status": "up",
-    "uptime": "70.47%",
+    "uptime": "70.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 221,
-    "timeWeek": 228,
-    "timeMonth": 238,
+    "timeDay": 244,
+    "timeWeek": 239,
+    "timeMonth": 235,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2026-04-20": 23
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 209,
-    "timeWeek": 222,
-    "timeMonth": 238,
+    "timeDay": 210,
+    "timeWeek": 225,
+    "timeMonth": 237,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2026-03-10": 22
@@ -97,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 518,
-    "timeDay": 535,
-    "timeWeek": 517,
-    "timeMonth": 554,
-    "timeYear": 395,
+    "timeDay": 480,
+    "timeWeek": 512,
+    "timeMonth": 560,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2026-04-30": 33,
       "2026-05-10": 99
@@ -118,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 409,
-    "timeDay": 484,
-    "timeWeek": 368,
-    "timeMonth": 730,
-    "timeYear": 402,
+    "timeDay": 565,
+    "timeWeek": 403,
+    "timeMonth": 738,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2026-05-19": 31,
       "2026-06-24": 60
